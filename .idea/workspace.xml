@@ -14,7 +14,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Zu1JdMBC2pNokcW1F29gNko2Ft" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +31,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -152,6 +162,10 @@
       <screen x="0" y="22" width="1440" height="878" />
     </state>
     <state x="320" y="126" key="#Project_Structure/-1920.-442.1920.972/0.22.1440.878@0.22.1440.878" timestamp="1585674147156" />
+    <state x="-1327" y="-429" key="CommitChangelistDialog2" timestamp="1587060725201">
+      <screen x="-1920" y="-515" width="1920" height="975" />
+    </state>
+    <state x="-1327" y="-429" key="CommitChangelistDialog2/-1920.-515.1920.975/0.22.1440.878/-3840.-515.1920.1058@-1920.-515.1920.975" timestamp="1587060725201" />
     <state width="1878" height="258" key="GridCell.Tab.0.bottom" timestamp="1587059025929">
       <screen x="-1920" y="-515" width="1920" height="975" />
     </state>
